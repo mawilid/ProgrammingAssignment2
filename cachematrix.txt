@@ -1,6 +1,5 @@
-## Changes to original matrix file
+## Functions that cache the inverse of a matrix
 ##
-## Functions that cache the inverse of a matrix 1
 ## Create a special "matrix", which is a list containing
 ## a function to
 ##   - set the value of the matrix
